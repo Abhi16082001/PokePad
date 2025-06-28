@@ -17,3 +17,4 @@ I focused on replicating core Notepad functionality while keeping things simple 
 7. Various Editor Theme Options
 
 This was a fun and valuable exercise, and I hope you enjoy checking it out!
+Note: I have used Form2 for getting the input for Find and Replace options as at that time I wasn't aware of InputBox but later I thought InputBox would be very typical for these type of scenarios and also due to time constraints, I didn't change that.
